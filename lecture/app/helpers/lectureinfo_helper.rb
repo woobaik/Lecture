@@ -1,0 +1,2 @@
+module LectureinfoHelper
+end
